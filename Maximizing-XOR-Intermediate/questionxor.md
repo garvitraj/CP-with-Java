@@ -37,3 +37,4 @@ Sample Output 0
 7
 Explanation 0
 
+Link for question = https://www.hackerrank.com/challenges/maximizing-xor/problem
