@@ -17,15 +17,15 @@ Return '00:01:00'.**
 **string s:** *a time in  hour format*
 **Returns string: the time in  hour format**
 
-**Input Format
+**Input Format**
 
-*A single string  that represents a time in -hour clock format (i.e.:  or ).
+*A single string  that represents a time in -hour clock format (i.e.:  or ).*
 
 **Constraints
-*All input times are valid
+*All input times are valid*
 
-**Sample Input 0** *07:05:45PM
+**Sample Input 0** *07:05:45PM*
 
-**Sample Output 0** *19:05:45
+**Sample Output 0** *19:05:45*
 
 **# Question Link = https://www.hackerrank.com/challenges/time-conversion/problem  #**
